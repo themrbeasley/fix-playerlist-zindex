@@ -1,0 +1,25 @@
+{
+    "name": "playerlist-zindex",
+    "title": "Playerlist dont cover controls bar",
+    "description": "simple mod, Adjust Playerlist z-index",
+    "version": "1.0.0",
+    "author": "Sad",
+    "scripts": [
+        "./index.js"
+    ],
+    "styles": [],
+    "packs": [],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "languages/en.json"
+        }
+    ],
+    "socket": true,
+    "minimumCoreVersion": "0.6.2",
+    "compatibleCoreVersion": "0.8.9",
+    "url": "https://github.com/zeteticl/playerlist-zindex",
+    "manifest": "https://raw.githubusercontent.com/zeteticl/playerlist-zindex/main/module.json",
+    "download": "https://github.com/zeteticl/playerlist-zindex/archive/main.zip"
+}
