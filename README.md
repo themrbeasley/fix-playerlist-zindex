@@ -2,7 +2,7 @@
 <a href="https://patreon.com/HKTRPG"><img src="https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.vercel.app/api/?username=HKTRPG&type=patrons" /></a>
 
 
-# Playerlist dont cover controls bar
+# Playerlist Dont Cover Controls Bar
 
 simple mod, Adjust Playerlist z-index.
 
