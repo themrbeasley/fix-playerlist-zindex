@@ -3,7 +3,7 @@
     "title": "Playerlist dont cover controls bar",
     "description": "simple mod, Adjust Playerlist z-index",
     "version": "1.0.0",
-    "author": "Sad",
+    "author": "Sad, HKTRPG",
     "scripts": [
         "./index.js"
     ],
