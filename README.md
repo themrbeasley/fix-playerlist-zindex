@@ -13,9 +13,9 @@ simple mod, Adjust Control Bar. Make it Scrollable.
 
 ## Changelog
 
-### v1.1.0
+### v1.1.1
 
-Make it Scrollable.
+Make it Scrollable.And 80vh height.
 
 ### v1.0.0
 
