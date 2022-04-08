@@ -2,7 +2,7 @@
     "name": "playerlist-zindex",
     "title": "Playerlist don't cover Controls Bar",
     "description": "simple mod, Adjust Controls Bar, make it scrollable",
-    "version": "1.1.1",
+    "version": "1.2.1",
     "author": "Sad, HKTRPG",
     "scripts": [
         "./index.js"
