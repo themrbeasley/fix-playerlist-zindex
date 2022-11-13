@@ -4,7 +4,7 @@
 
 # Playerlist Dont Cover Controls Bar
 
-simple mod, Adjust Control Bar. Make it Scrollable.
+simple mod, Adjust Control Bar. Make it Scrollable. Original Author's Patreon is above
 
 ![image](https://user-images.githubusercontent.com/23254376/150695465-a7e6e567-94f0-4e29-90f6-06e3cddd1382.png)
 
