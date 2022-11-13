@@ -2,24 +2,25 @@
     "name": "playerlist-zindex",
     "title": "Playerlist don't cover Controls Bar",
     "description": "simple mod, Adjust Controls Bar, make it scrollable",
-    "version": "1.2.1",
-    "author": "Sad, HKTRPG",
+    "version": "1.2.2",
+    "authors": [
+	  {
+		  "name": "Sad, HKTRPG, themrbeasley,",
+		  "email": "jack@mrprimate.co.uk, jordanbeasley1991@gmail.com,",
+		  "flags": {}
+    }
+  ],
     "scripts": [
         "./index.js"
     ],
     "styles": [],
     "packs": [],
-    "languages": [
-        {
-            "lang": "en",
-            "name": "English",
-            "path": "languages/en.json"
-        }
-    ],
     "socket": true,
-    "minimumCoreVersion": "0.6.2",
-    "compatibleCoreVersion": "9",
-    "url": "https://github.com/hktrpg/FoundryVTT-playerlist-zindex",
-    "manifest": "https://raw.githubusercontent.com/hktrpg/FoundryVTT-playerlist-zindex/main/module.json",
-    "download": "https://github.com/hktrpg/FoundryVTT-playerlist-zindex/releases/latest/download/module.zip"
+    "compatibility": {
+		"minimum": "10",
+		"verified": "10"
+		},
+    "url": "https://github.com/themrbeasley/fix-playerlist-zindex",
+    "manifest": "https://raw.githubusercontent.com/themrbeasley/fix-playerlist-zindex/main/module.json",
+    "download": "https://github.com/themrbeasley/fix-playerlist-zindex/releases/latest/download/module.zip"
 }
