@@ -10,6 +10,10 @@ simple mod, Adjust Control Bar. Make it Scrollable.
 
 ## Changelog
 
+### v1.2.3
+
+This fork of the original module should be compatibile and work with Foundry VTT v10. 
+
 ### v1.2.1
 
 Make it fit for v9 255.
